@@ -1,0 +1,68 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 50px;
+}
+
+#img_navbar{
+    width: 40px;
+    margin-right: 20px;
+}
+
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-image: url("img/fondo4.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+  
+.container{
+    background-color:RGBA(55,0,0,0.3);
+    border-style:dashed;
+    border-color: rgba(255, 255, 255, 0.349);
+    text-align: center;
+    margin-top: 5%;
+    max-width:500px;    
+}
+div > h1{
+    color:rgb(43, 95, 126);
+}
+div > h2{
+    color:rgb(114, 13, 13);
+}
+
+div > p{
+    color: #fff;
+    font-size:larger;
+}
+
+.footer{
+    margin-top: auto;
+    text-align:center;
+    align-items:center;
+    margin:auto;
+}
+
+ .footer-p p{
+    color:black;
+ }
+
+#contacto {
+    bottom:0;
+    display: flex;
+    justify-content:center;
+    margin:15px;
+}
+.contacto img{
+    height: 1cm;
+    margin-right: 20px;
+
+}
