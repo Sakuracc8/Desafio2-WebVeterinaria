@@ -14,7 +14,7 @@ header{
 
 body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-image: url("img/fondo4.jpg");
+    background-image: url("img/Fondo-contacto.jpg");
     background-size: cover;
     background-repeat:no-repeat;
     background-position: center center;
@@ -29,7 +29,7 @@ body{
 }
 
 .contacto h1{
-    color:rgb(21, 103, 197);
+    color:rgb(41, 42, 43);
 }
 
 .contacto p{
